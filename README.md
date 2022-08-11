@@ -1,0 +1,2 @@
+# JD51-single-chip-Micocomputer-In-System-Programming
+Microcontrollers are used in a multitude of commercial application such as modems,motor-control systems,air conditioner control systems,automotive engine and among others.This paper description the design and mechanism of the test environment,its interactions with various hardware/software envirnmental components,and how to use SST89E58RD,or AT89C51,or JD51.该文本是描述JD51的程序编写，keil管理程序的使用，以及keil的环境，还有SST烧录程序入JD51开发板，和在keil与protues联调开发板电路，分为几个小篇来描述。
